@@ -15,3 +15,8 @@ As started above, the main purpose is to provide simple examples for Git trainin
 This is a simple web project, deployment can be on any web serer or even local file system.
 
 ## How To Contribute
+
+
+## Copyright 
+
+2020 Sawit M.
