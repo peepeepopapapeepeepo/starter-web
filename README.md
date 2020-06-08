@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for reviews.
 
 ## Copyright 
 
-2020 Sawit M.
+2020 Sawit M. All right reserved.
